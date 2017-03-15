@@ -1,2 +1,2 @@
 # jeraly
-just own repository
+test repository
